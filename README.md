@@ -1,10 +1,11 @@
 # ai-bot
-### @dfssdfsdsdf
+### @aich0t_bot
 
 Used tech:
 * aiogram 3.x
 * SQLAlchemy 2.0+
 * alembic for migrations
+* webhook
 * uv for package management
 * openai (liberty) for requests
 * SQLite as database
